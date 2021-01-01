@@ -84,6 +84,7 @@ namespace SEProject.Controllers
             announcement.user = CurrentUser.Instance.User;
             AddToFirebase("Announcements/", announcement);
             CurrentUser.Instance.User.history.Add(announcement.category);
+
             return View();
 
         }
@@ -118,8 +119,11 @@ namespace SEProject.Controllers
 
                     if (user.password.Equals(user.confirmPassword))
                     {
-                        AddToFirebase("Users/", user);
+                        user.userID = AddToFirebase("Users/", user);
+                        SetResponse setResponse = client.Set("Users/" + user.userID, user);
+
                         ModelState.AddModelError(string.Empty, "User added succesfully");
+
                     }
 
                 }
@@ -166,13 +170,13 @@ namespace SEProject.Controllers
             return View();
         }
 
-        private void AddToFirebase<T>(String path, T a)
+        private String AddToFirebase<T>(String path, T a)
         {
             client = new FirebaseClient(config);
             var data1 = a;
 
             PushResponse responses = client.Push(path, data1);
-
+            return responses.Result.name;
         }
 
         public ActionResult Account()
@@ -202,6 +206,7 @@ namespace SEProject.Controllers
                 {
 
                     Announcement a = (Announcement)JsonConvert.DeserializeObject<Announcement>(((JProperty)item).Value.ToString());
+
                     if (multiCriteria(a))
                         list.Add(a);
 
@@ -227,6 +232,39 @@ namespace SEProject.Controllers
 
 
 
+        }
+
+
+        public ActionResult Search(string searching)
+        {
+            client = new FirebaseClient(config);
+            FirebaseResponse response = client.Get("Announcements");
+            var list = new List<Announcement>();
+            dynamic data = JsonConvert.DeserializeObject<dynamic>(response.Body);
+
+            if (data != null)
+                foreach (dynamic item in data)
+                {
+                    Announcement a = (Announcement)JsonConvert.DeserializeObject<Announcement>(((JProperty)item).Value.ToString());
+
+                    if (a.category.Equals(searching) && (searching != null))
+                    {
+                        list.Add(a);
+                        CurrentUser.Instance.User.addNew(a.category);
+                    }
+                }
+
+            if (CurrentUser.Instance.User.history.Count != 0)
+            {
+                int i = 1;
+                foreach (String s in CurrentUser.Instance.User.history)
+                {
+                    SetResponse setResponse = client.Set("User/" + CurrentUser.Instance.User.userID + "/" + "history/" + i, s);
+                    i++;
+
+                }
+            }
+            return View(list);
         }
 
 

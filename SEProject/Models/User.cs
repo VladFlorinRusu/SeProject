@@ -17,6 +17,8 @@ namespace SEProject.Models
         public String email { get; set; }
         public String fullName { get; set; }
         public String city { get; set; }
+
+        public String userID { get; set; }
         public String username { get; set; }
         [DataType(DataType.Password)]
         public String password { get; set; }
@@ -29,7 +31,16 @@ namespace SEProject.Models
 
         public List<String> history = new List<String>();//put the categories
 
+        public void addNew(String s)
+        {
+            if (history.Count == 5)
+            {
+                history.RemoveAt(0);
+                history.Add(s);
 
+            }
+
+        }
         public void logIn()
         {
             isAuthenticated = true;

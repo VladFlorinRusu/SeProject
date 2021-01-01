@@ -337,6 +337,7 @@
     <Content Include="Views\Account\Logoff.cshtml" />
     <Content Include="Views\Account\AddAnnouncement.cshtml" />
     <Content Include="Views\Account\Feed.cshtml" />
+    <Content Include="Views\Account\Search.cshtml" />
     <None Include="Views\images\BVLG.jpeg" />
   </ItemGroup>
   <ItemGroup>
