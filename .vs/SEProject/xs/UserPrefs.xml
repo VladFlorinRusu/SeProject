@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{12A95323-363C-417B-B55B-AE7AC18114A0}|">
+  <MonoDevelop.Ide.ItemProperties.SEProject PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SEProject/Views/Shared/_Register_Login.cshtml">
+    <Files>
+      <File FileName="SEProject/Controllers/AccountController.cs" Line="101" Column="50" />
+      <File FileName="SEProject/Models/LoginData.cs" Line="1" Column="1" />
+      <File FileName="SEProject/Views/Shared/_Layout.cshtml" Line="10" Column="7" />
+      <File FileName="SEProject/Views/Shared/_NavBar.cshtml" Line="1" Column="1" />
+      <File FileName="SEProject/Views/Account/Login.cshtml" Line="34" Column="52" />
+      <File FileName="SEProject/Views/Account/Create.cshtml" Line="1" Column="1" />
+      <File FileName="SEProject/Controllers/HomeController.cs" Line="28" Column="1" />
+      <File FileName="SEProject/Views/Home/Home.cshtml" Line="1" Column="1" />
+      <File FileName="SEProject/Views/Shared/_Register_Login.cshtml" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SEProject" expanded="True">
+            <Node name="SEProject" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Register_Login.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
