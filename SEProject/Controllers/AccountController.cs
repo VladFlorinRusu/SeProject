@@ -83,8 +83,6 @@ namespace SEProject.Controllers
             var list = new List<Announcement>();
             announcement.user = CurrentUser.Instance.User;
             AddToFirebase("Announcements/", announcement);
-            CurrentUser.Instance.User.history.Add(announcement.category);
-
             return View();
 
         }
@@ -225,7 +223,7 @@ namespace SEProject.Controllers
         {
             int points;
             points = CurrentUser.Instance.User.computePoints(a);
-            if (points >= 3)
+            if (points >= 4)
                 return true;
             return false;
 
@@ -237,6 +235,7 @@ namespace SEProject.Controllers
 
         public ActionResult Search(string searching)
         {
+            int addInHistory = 0;
             client = new FirebaseClient(config);
             FirebaseResponse response = client.Get("Announcements");
             var list = new List<Announcement>();
@@ -250,19 +249,21 @@ namespace SEProject.Controllers
                     if (a.category.Equals(searching) && (searching != null))
                     {
                         list.Add(a);
-                        CurrentUser.Instance.User.addNew(a.category);
+
+                        if (addInHistory == 0)
+                        {
+                            addInHistory = 1;
+                            CurrentUser.Instance.User.addNew(a.category);
+                        }
                     }
                 }
 
             if (CurrentUser.Instance.User.history.Count != 0)
             {
-                int i = 1;
-                foreach (String s in CurrentUser.Instance.User.history)
-                {
-                    SetResponse setResponse = client.Set("User/" + CurrentUser.Instance.User.userID + "/" + "history/" + i, s);
-                    i++;
 
-                }
+                client.Set("Users/" + CurrentUser.Instance.User.userID + "/" + "history/", CurrentUser.Instance.User.history);
+
+
             }
             return View(list);
         }

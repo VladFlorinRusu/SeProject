@@ -39,7 +39,8 @@ namespace SEProject.Models
                 history.Add(s);
 
             }
-
+            else
+                history.Add(s);
         }
         public void logIn()
         {
