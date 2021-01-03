@@ -1,0 +1,70 @@
+﻿@model IEnumerable<SEProject.Models.Announcement>
+
+@using (Html.BeginForm())
+{
+    <br />
+    <br />
+    <li>
+        @Html.TextBox("searching")
+        <input type="submit" value="Search" />
+    </li>
+    <br />
+    <br />
+
+    <table class="table">
+        <thread>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.category)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.text)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.price)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.city)
+                </th>
+            </tr>
+        </thread>
+        <tbody>
+            @using (Html.BeginForm("Request", "Account"))
+            {
+                if (Model.Count() == 0)
+                {
+                    <tr>
+                        <td colspan="3" style="color:red">
+                            No match
+                        </td>
+                    </tr>
+                }
+                else
+                {
+                    foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.category)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.text)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.price)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.city)
+                            </td>
+                            <td>
+                            <td>
+                                @Html.ActionLink("Request", "Request", new { id = item.announcementID })
+                            </td>
+                        </tr>
+                    }
+                }
+            }
+        </tbody>
+    </table>
+}

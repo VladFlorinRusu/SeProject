@@ -1,0 +1,48 @@
+﻿@model IEnumerable<SEProject.Models.Announcement>
+
+<br />
+<br />
+<h1> You may be interested:</h1>
+<br />
+<br />
+@using (Html.BeginForm("HandleButton", "Button"))
+{
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.category)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.text)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.city)
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.category)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.text)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.city)
+                </td>
+                <td>
+                    @Html.ActionLink("Request", "Request", new { id = item.announcementID })
+                </td>
+            </tr>
+        }
+
+    </table>
+}

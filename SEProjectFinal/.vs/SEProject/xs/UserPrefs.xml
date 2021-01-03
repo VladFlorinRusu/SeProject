@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{12A95323-363C-417B-B55B-AE7AC18114A0}|">
+  <MonoDevelop.Ide.ItemProperties.SEProject PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SEProject/Views/Account/Admin.cshtml">
+    <Files>
+      <File FileName="SEProject/Views/Shared/_Register_Login.cshtml" Line="16" Column="1" />
+      <File FileName="SEProject/Views/Account/Admin.cshtml" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SEProject" expanded="True">
+            <Node name="SEProject" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True">
+                  <Node name="Admin.cshtml" selected="True" />
+                </Node>
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

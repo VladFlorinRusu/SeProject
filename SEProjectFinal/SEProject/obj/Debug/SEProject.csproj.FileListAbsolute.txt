@@ -1,0 +1,1375 @@
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/SEProject.dll.config
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/SEProject.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/SEProject.pdb
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/csc.exe
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/csc.exe.config
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/csc.rsp
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/csi.exe
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/csi.exe.config
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/csi.rsp
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.AppContext.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Console.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.IO.Compression.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Net.Http.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Net.Sockets.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.ValueTuple.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Xml.XPath.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/vbc.exe
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/vbc.exe.config
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/vbc.rsp
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/VBCSCompiler.exe
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/Antlr3.Runtime.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/Newtonsoft.Json.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Web.Helpers.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Web.Mvc.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Web.Optimization.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Web.Razor.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Web.WebPages.Deployment.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Web.WebPages.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Web.WebPages.Razor.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/WebGrease.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Web.Helpers.xml
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Web.Mvc.xml
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Web.Optimization.xml
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Web.Razor.xml
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Web.WebPages.xml
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Web.WebPages.Deployment.xml
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Web.WebPages.Razor.xml
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/Newtonsoft.Json.xml
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/Antlr3.Runtime.pdb
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/vladr/source/repos/SEProject/SEProject/obj/Debug/SEProject.csprojAssemblyReference.cache
+C:/Users/vladr/source/repos/SEProject/SEProject/obj/Debug/SEProject.csproj.CoreCompileInputs.cache
+C:/Users/vladr/source/repos/SEProject/SEProject/obj/Debug/SEProject.csproj.CopyComplete
+C:/Users/vladr/source/repos/SEProject/SEProject/obj/Debug/SEProject.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/obj/Debug/SEProject.pdb
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/Firebase.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/LiteDB.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Reactive.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/Firebase.xml
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/LiteDB.xml
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Reactive.xml
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/Firebase.Auth.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Diagnostics.DiagnosticSource.dll
+C:/Users/vladr/source/repos/SEProject/SEProject/bin/System.Diagnostics.DiagnosticSource.xml
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/SEProject.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/SEProject.pdb
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/csc.exe
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/csc.exe.config
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/csc.rsp
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/csi.exe
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/csi.exe.config
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/csi.rsp
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/Microsoft.Win32.Primitives.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.AppContext.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Collections.Immutable.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Console.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Globalization.Calendars.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.IO.Compression.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.IO.Compression.ZipFile.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.IO.FileSystem.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Net.Http.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Net.Sockets.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Reflection.Metadata.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.ValueTuple.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Xml.XPath.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/vbc.exe
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/vbc.exe.config
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/vbc.rsp
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/VBCSCompiler.exe
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/roslyn/VBCSCompiler.exe.config
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/Antlr3.Runtime.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/Firebase.Auth.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/Firebase.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/LiteDB.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/Microsoft.Web.Infrastructure.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/Microsoft.Win32.Primitives.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/Newtonsoft.Json.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.AppContext.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Console.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Diagnostics.DiagnosticSource.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Diagnostics.Tracing.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Globalization.Calendars.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.IO.Compression.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.IO.Compression.ZipFile.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.IO.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.IO.FileSystem.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.IO.FileSystem.Primitives.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Linq.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Linq.Expressions.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Net.Http.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Net.Sockets.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Reactive.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Reflection.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Runtime.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Runtime.Extensions.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Runtime.InteropServices.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Security.Cryptography.Algorithms.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Security.Cryptography.Encoding.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Security.Cryptography.Primitives.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Security.Cryptography.X509Certificates.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Text.RegularExpressions.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Web.Helpers.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Web.Mvc.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Web.Optimization.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Web.Razor.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Web.WebPages.Deployment.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Web.WebPages.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Web.WebPages.Razor.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Xml.ReaderWriter.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/WebGrease.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/Firebase.xml
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/LiteDB.xml
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Diagnostics.DiagnosticSource.xml
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Reactive.xml
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Web.Helpers.xml
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Web.Mvc.xml
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Web.Optimization.xml
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Web.Razor.xml
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Web.WebPages.xml
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Web.WebPages.Deployment.xml
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/System.Web.WebPages.Razor.xml
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/Newtonsoft.Json.xml
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/Antlr3.Runtime.pdb
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/obj/Debug/SEProject.csprojAssemblyReference.cache
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/obj/Debug/SEProject.csproj.CoreCompileInputs.cache
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/obj/Debug/SEProject.csproj.CopyComplete
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/obj/Debug/SEProject.dll
+/Users/gavrisvancea/Downloads/SEProject-3/SEProject/obj/Debug/SEProject.pdb
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/SEProject.dll.config
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/SEProject.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/SEProject.pdb
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/csc.exe
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/csc.exe.config
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/csc.rsp
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/csi.exe
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/csi.exe.config
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/csi.rsp
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.Managed.Core.targets
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.Win32.Primitives.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.AppContext.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Collections.Immutable.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Console.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Diagnostics.StackTrace.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Globalization.Calendars.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.IO.Compression.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.IO.Compression.ZipFile.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.IO.FileSystem.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.IO.FileSystem.Primitives.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Net.Http.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Net.Sockets.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Reflection.Metadata.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Security.Cryptography.Encoding.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Security.Cryptography.Primitives.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Text.Encoding.CodePages.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Threading.Tasks.Extensions.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.ValueTuple.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Xml.ReaderWriter.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Xml.XmlDocument.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Xml.XPath.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/System.Xml.XPath.XDocument.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/vbc.exe
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/vbc.exe.config
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/vbc.rsp
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/VBCSCompiler.exe
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/roslyn/VBCSCompiler.exe.config
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/Antlr3.Runtime.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/Firebase.Auth.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/Firebase.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/LiteDB.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/Microsoft.Web.Infrastructure.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/Newtonsoft.Json.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Diagnostics.DiagnosticSource.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Reactive.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Web.Helpers.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Web.Mvc.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Web.Optimization.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Web.Razor.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Web.WebPages.Deployment.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Web.WebPages.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Web.WebPages.Razor.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/WebGrease.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/Firebase.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/LiteDB.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Diagnostics.DiagnosticSource.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Reactive.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Web.Helpers.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Web.Mvc.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Web.Optimization.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Web.Razor.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Web.WebPages.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Web.WebPages.Deployment.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Web.WebPages.Razor.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/Newtonsoft.Json.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/Antlr3.Runtime.pdb
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/obj/Debug/SEProject.csprojAssemblyReference.cache
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/obj/Debug/SEProject.csproj.CoreCompileInputs.cache
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/obj/Debug/SEProject.csproj.CopyComplete
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/obj/Debug/SEProject.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/obj/Debug/SEProject.pdb
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/obj/Debug/SEProject.csproj.App.config
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/FireSharp.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/Microsoft.Threading.Tasks.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/Microsoft.Threading.Tasks.Extensions.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Net.Http.Extensions.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Net.Http.Primitives.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/Microsoft.Threading.Tasks.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/Microsoft.Threading.Tasks.Extensions.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Net.Http.Extensions.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/SEProject-3/SEProject/bin/System.Net.Http.Primitives.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/SEProject.dll.config
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/SEProject.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/SEProject.pdb
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/csc.exe
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/csc.exe.config
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/csc.rsp
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/csi.exe
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/csi.exe.config
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/csi.rsp
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.AppContext.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Console.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.IO.Compression.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Net.Http.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Net.Sockets.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.ValueTuple.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/vbc.exe
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/vbc.exe.config
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/vbc.rsp
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/VBCSCompiler.exe
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/Antlr3.Runtime.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/Firebase.Auth.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/Firebase.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/FireSharp.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/LiteDB.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/Microsoft.Threading.Tasks.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/Microsoft.Threading.Tasks.Extensions.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/Newtonsoft.Json.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Net.Http.Extensions.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Net.Http.Primitives.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Reactive.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Web.Helpers.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Web.Mvc.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Web.Optimization.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Web.Razor.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Web.WebPages.Deployment.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Web.WebPages.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Web.WebPages.Razor.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/WebGrease.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/Firebase.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/LiteDB.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/Microsoft.Threading.Tasks.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/Microsoft.Threading.Tasks.Extensions.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Diagnostics.DiagnosticSource.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Net.Http.Extensions.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Net.Http.Primitives.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Reactive.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Web.Helpers.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Web.Mvc.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Web.Optimization.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Web.Razor.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Web.WebPages.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Web.WebPages.Deployment.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/System.Web.WebPages.Razor.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/Newtonsoft.Json.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/Antlr3.Runtime.pdb
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/obj/Debug/SEProject.csproj.App.config
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/obj/Debug/SEProject.csproj.CoreCompileInputs.cache
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/obj/Debug/SEProject.csproj.CopyComplete
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/obj/Debug/SEProject.dll
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/obj/Debug/SEProject.pdb
+C:/Users/Bianc/Downloads/IS_proiect/SEProject-3/SEProject/obj/Debug/SEProject.csprojAssemblyReference.cache
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/SEProject.dll.config
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/SEProject.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/SEProject.pdb
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/csc.exe
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/csc.exe.config
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/csc.rsp
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/csi.exe
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/csi.exe.config
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/csi.rsp
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/Microsoft.Win32.Primitives.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.AppContext.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Collections.Immutable.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Console.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Globalization.Calendars.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.IO.Compression.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.IO.Compression.ZipFile.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.IO.FileSystem.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Net.Http.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Net.Sockets.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Reflection.Metadata.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.ValueTuple.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Xml.XPath.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/vbc.exe
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/vbc.exe.config
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/vbc.rsp
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/VBCSCompiler.exe
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/roslyn/VBCSCompiler.exe.config
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Antlr3.Runtime.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Firebase.Auth.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Firebase.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/FireSharp.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/LiteDB.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.Extensions.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Microsoft.Web.Infrastructure.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Microsoft.Win32.Primitives.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Newtonsoft.Json.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.AppContext.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Console.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Diagnostics.DiagnosticSource.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Diagnostics.Tracing.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Globalization.Calendars.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.IO.Compression.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.IO.Compression.ZipFile.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.IO.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.IO.FileSystem.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.IO.FileSystem.Primitives.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Linq.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Linq.Expressions.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Net.Http.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Net.Http.Extensions.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Net.Http.Primitives.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Net.Sockets.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Reactive.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Reflection.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Runtime.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Runtime.Extensions.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Runtime.InteropServices.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Security.Cryptography.Algorithms.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Security.Cryptography.Encoding.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Security.Cryptography.Primitives.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Security.Cryptography.X509Certificates.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Text.RegularExpressions.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Web.Helpers.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Web.Mvc.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Web.Optimization.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Web.Razor.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Web.WebPages.Deployment.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Web.WebPages.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Web.WebPages.Razor.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Xml.ReaderWriter.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/WebGrease.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Firebase.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/LiteDB.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.Extensions.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Diagnostics.DiagnosticSource.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Net.Http.Extensions.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Net.Http.Primitives.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Reactive.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Web.Helpers.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Web.Mvc.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Web.Optimization.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Web.Razor.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Web.WebPages.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Web.WebPages.Deployment.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/System.Web.WebPages.Razor.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Newtonsoft.Json.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Antlr3.Runtime.pdb
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/obj/Debug/SEProject.csproj.App.config
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/obj/Debug/SEProject.csprojAssemblyReference.cache
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/obj/Debug/SEProject.csproj.CoreCompileInputs.cache
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/obj/Debug/SEProject.csproj.CopyComplete
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/obj/Debug/SEProject.dll
+/Users/gavrisvancea/Downloads/SEProject-3-2/SEProject/obj/Debug/SEProject.pdb
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/SEProject.dll.config
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/SEProject.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/SEProject.pdb
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/csc.exe
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/csc.exe.config
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/csc.rsp
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/csi.exe
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/csi.exe.config
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/csi.rsp
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.AppContext.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Console.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.IO.Compression.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Net.Http.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Net.Sockets.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.ValueTuple.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/vbc.exe
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/vbc.exe.config
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/vbc.rsp
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/VBCSCompiler.exe
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/Antlr3.Runtime.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/Firebase.Auth.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/Firebase.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/FireSharp.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/LiteDB.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.Extensions.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/Newtonsoft.Json.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Net.Http.Extensions.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Net.Http.Primitives.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Reactive.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.Helpers.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.Mvc.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.Optimization.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.Razor.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.WebPages.Deployment.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.WebPages.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.WebPages.Razor.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/WebGrease.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/Firebase.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/LiteDB.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.Extensions.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Diagnostics.DiagnosticSource.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Net.Http.Extensions.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Net.Http.Primitives.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Reactive.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.Helpers.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.Mvc.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.Optimization.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.Razor.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.WebPages.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.WebPages.Deployment.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.WebPages.Razor.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/Newtonsoft.Json.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/Antlr3.Runtime.pdb
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/obj/Debug/SEProject.csproj.App.config
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/obj/Debug/SEProject.csprojAssemblyReference.cache
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/obj/Debug/SEProject.csproj.CoreCompileInputs.cache
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/obj/Debug/SEProject.csproj.CopyComplete
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/obj/Debug/SEProject.dll
+C:/Users/Bianc/Downloads/SEProject-3-2/SEProject-3-2/SEProject/obj/Debug/SEProject.pdb
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/SEProject.dll.config
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/SEProject.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/SEProject.pdb
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/csc.exe
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/csc.exe.config
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/csc.rsp
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/csi.exe
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/csi.exe.config
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/csi.rsp
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.AppContext.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Console.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.IO.Compression.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Net.Http.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Net.Sockets.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.ValueTuple.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Xml.XPath.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/vbc.exe
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/vbc.exe.config
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/vbc.rsp
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/VBCSCompiler.exe
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/Antlr3.Runtime.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/Firebase.Auth.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/Firebase.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/FireSharp.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/LiteDB.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.Extensions.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/Newtonsoft.Json.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Diagnostics.DiagnosticSource.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Net.Http.Extensions.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Net.Http.Primitives.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Reactive.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.Helpers.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.Mvc.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.Optimization.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.Razor.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.WebPages.Deployment.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.WebPages.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.WebPages.Razor.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/WebGrease.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/Firebase.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/LiteDB.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.Extensions.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Diagnostics.DiagnosticSource.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Net.Http.Extensions.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Net.Http.Primitives.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Reactive.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.Helpers.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.Mvc.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.Optimization.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.Razor.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.WebPages.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.WebPages.Deployment.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/System.Web.WebPages.Razor.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/Newtonsoft.Json.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/Antlr3.Runtime.pdb
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/obj/Debug/SEProject.csproj.App.config
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/obj/Debug/SEProject.csprojAssemblyReference.cache
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/obj/Debug/SEProject.csproj.CoreCompileInputs.cache
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/obj/Debug/SEProject.csproj.CopyComplete
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/obj/Debug/SEProject.dll
+C:/Users/vladr/OneDrive/Desktop/SEProject-3-2/SEProject-3-2/SEProject/obj/Debug/SEProject.pdb
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/SEProject.dll.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/SEProject.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/SEProject.pdb
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/csc.exe
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/csc.exe.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/csc.rsp
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/csi.exe
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/csi.exe.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/csi.rsp
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/Microsoft.Managed.Core.targets
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/Microsoft.Win32.Primitives.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.AppContext.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Collections.Immutable.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Console.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Diagnostics.StackTrace.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Globalization.Calendars.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.IO.Compression.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.IO.Compression.ZipFile.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.IO.FileSystem.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.IO.FileSystem.Primitives.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Net.Http.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Net.Sockets.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Reflection.Metadata.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Security.Cryptography.Encoding.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Security.Cryptography.Primitives.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Text.Encoding.CodePages.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Threading.Tasks.Extensions.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.ValueTuple.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Xml.ReaderWriter.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Xml.XmlDocument.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Xml.XPath.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/System.Xml.XPath.XDocument.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/vbc.exe
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/vbc.exe.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/vbc.rsp
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/VBCSCompiler.exe
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/roslyn/VBCSCompiler.exe.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/Antlr3.Runtime.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/Firebase.Auth.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/Firebase.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/FireSharp.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/LiteDB.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.Extensions.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/Microsoft.Web.Infrastructure.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/Newtonsoft.Json.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Diagnostics.DiagnosticSource.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Net.Http.Extensions.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Net.Http.Primitives.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Reactive.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Web.Helpers.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Web.Mvc.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Web.Optimization.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Web.Razor.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Web.WebPages.Deployment.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Web.WebPages.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Web.WebPages.Razor.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/WebGrease.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/Firebase.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/LiteDB.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.Extensions.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Diagnostics.DiagnosticSource.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Net.Http.Extensions.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Net.Http.Primitives.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Reactive.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Web.Helpers.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Web.Mvc.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Web.Optimization.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Web.Razor.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Web.WebPages.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Web.WebPages.Deployment.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/System.Web.WebPages.Razor.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/Newtonsoft.Json.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/Antlr3.Runtime.pdb
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/obj/Debug/SEProject.csproj.App.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/obj/Debug/SEProject.csprojAssemblyReference.cache
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/obj/Debug/SEProject.csproj.CoreCompileInputs.cache
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/obj/Debug/SEProject.csproj.CopyComplete
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/obj/Debug/SEProject.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProject-3-2/SEProject/obj/Debug/SEProject.pdb
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/SEProject.dll.config
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/SEProject.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/SEProject.pdb
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csc.exe
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csc.exe.config
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csc.rsp
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csi.exe
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csi.exe.config
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csi.rsp
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.Win32.Primitives.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.AppContext.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Collections.Immutable.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Console.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Globalization.Calendars.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.IO.Compression.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.IO.Compression.ZipFile.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.IO.FileSystem.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Net.Http.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Net.Sockets.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Reflection.Metadata.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.ValueTuple.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Xml.XPath.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/vbc.exe
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/vbc.exe.config
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/vbc.rsp
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/VBCSCompiler.exe
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/VBCSCompiler.exe.config
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Antlr3.Runtime.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Firebase.Auth.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Firebase.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/FireSharp.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/LiteDB.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Web.Infrastructure.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Win32.Primitives.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Newtonsoft.Json.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.AppContext.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Console.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Diagnostics.DiagnosticSource.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Diagnostics.Tracing.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Globalization.Calendars.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.IO.Compression.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.IO.Compression.ZipFile.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.IO.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.IO.FileSystem.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.IO.FileSystem.Primitives.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Linq.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Linq.Expressions.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Net.Http.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Net.Http.Extensions.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Net.Http.Primitives.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Net.Sockets.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Reactive.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Reflection.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Runtime.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Runtime.Extensions.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Runtime.InteropServices.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Security.Cryptography.Algorithms.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Security.Cryptography.Encoding.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Security.Cryptography.Primitives.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Security.Cryptography.X509Certificates.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Text.RegularExpressions.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Helpers.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Mvc.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Optimization.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Razor.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.Deployment.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.Razor.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Xml.ReaderWriter.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/WebGrease.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Firebase.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/LiteDB.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Diagnostics.DiagnosticSource.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Net.Http.Extensions.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Net.Http.Primitives.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Reactive.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Helpers.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Mvc.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Optimization.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Razor.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.Deployment.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.Razor.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Newtonsoft.Json.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Antlr3.Runtime.pdb
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.csproj.App.config
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.csprojAssemblyReference.cache
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.csproj.CoreCompileInputs.cache
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.csproj.CopyComplete
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.pdb
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/SEProject.dll.config
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/SEProject.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/SEProject.pdb
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csc.exe
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csc.exe.config
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csc.rsp
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csi.exe
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csi.exe.config
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csi.rsp
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.AppContext.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Console.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.IO.Compression.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Net.Http.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Net.Sockets.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.ValueTuple.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/vbc.exe
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/vbc.exe.config
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/vbc.rsp
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/VBCSCompiler.exe
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Antlr3.Runtime.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Firebase.Auth.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Firebase.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/FireSharp.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/LiteDB.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Newtonsoft.Json.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Net.Http.Extensions.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Net.Http.Primitives.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Reactive.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Helpers.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Mvc.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Optimization.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Razor.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.Deployment.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.Razor.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/WebGrease.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Firebase.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/LiteDB.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Diagnostics.DiagnosticSource.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Net.Http.Extensions.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Net.Http.Primitives.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Reactive.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Helpers.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Mvc.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Optimization.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Razor.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.Deployment.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.Razor.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Newtonsoft.Json.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Antlr3.Runtime.pdb
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.csproj.App.config
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.csprojAssemblyReference.cache
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.csproj.CoreCompileInputs.cache
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.csproj.CopyComplete
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.dll
+C:/Users/Bianc/Downloads/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.pdb
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/SEProject.dll.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/SEProject.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/SEProject.pdb
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csc.exe
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csc.exe.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csc.rsp
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csi.exe
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csi.exe.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/csi.rsp
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.Managed.Core.targets
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/Microsoft.Win32.Primitives.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.AppContext.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Collections.Immutable.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Console.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Diagnostics.StackTrace.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Globalization.Calendars.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.IO.Compression.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.IO.Compression.ZipFile.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.IO.FileSystem.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.IO.FileSystem.Primitives.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Net.Http.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Net.Sockets.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Reflection.Metadata.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.Encoding.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.Primitives.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Text.Encoding.CodePages.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Threading.Tasks.Extensions.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.ValueTuple.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Xml.ReaderWriter.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Xml.XmlDocument.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Xml.XPath.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/System.Xml.XPath.XDocument.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/vbc.exe
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/vbc.exe.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/vbc.rsp
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/VBCSCompiler.exe
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/roslyn/VBCSCompiler.exe.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Antlr3.Runtime.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Firebase.Auth.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Firebase.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/FireSharp.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/LiteDB.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Web.Infrastructure.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Newtonsoft.Json.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Diagnostics.DiagnosticSource.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Net.Http.Extensions.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Net.Http.Primitives.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Reactive.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Helpers.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Mvc.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Optimization.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Razor.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.Deployment.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.Razor.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/WebGrease.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Firebase.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/LiteDB.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Diagnostics.DiagnosticSource.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Net.Http.Extensions.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Net.Http.Primitives.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Reactive.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Helpers.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Mvc.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Optimization.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.Razor.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.Deployment.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/System.Web.WebPages.Razor.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Newtonsoft.Json.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Antlr3.Runtime.pdb
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.csproj.App.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.csprojAssemblyReference.cache
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.csproj.CoreCompileInputs.cache
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.csproj.CopyComplete
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/ProiectIS_2_ian_16.09/ProiectIS/SEProjectFinal/SEProject/obj/Debug/SEProject.pdb
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/SEProject.dll.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/SEProject.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/SEProject.pdb
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/csc.exe
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/csc.exe.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/csc.rsp
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/csi.exe
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/csi.exe.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/csi.rsp
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.Managed.Core.targets
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.Win32.Primitives.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.AppContext.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Collections.Immutable.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Console.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Diagnostics.StackTrace.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Globalization.Calendars.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.IO.Compression.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.IO.Compression.ZipFile.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.IO.FileSystem.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.IO.FileSystem.Primitives.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Net.Http.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Net.Sockets.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Reflection.Metadata.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.Encoding.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.Primitives.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Text.Encoding.CodePages.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Threading.Tasks.Extensions.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.ValueTuple.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Xml.ReaderWriter.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Xml.XmlDocument.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Xml.XPath.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/System.Xml.XPath.XDocument.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/vbc.exe
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/vbc.exe.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/vbc.rsp
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/VBCSCompiler.exe
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/roslyn/VBCSCompiler.exe.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/Antlr3.Runtime.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/Firebase.Auth.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/Firebase.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/FireSharp.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/LiteDB.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/Microsoft.Web.Infrastructure.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/Newtonsoft.Json.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Diagnostics.DiagnosticSource.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Net.Http.Extensions.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Net.Http.Primitives.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Reactive.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Web.Helpers.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Web.Mvc.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Web.Optimization.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Web.Razor.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Web.WebPages.Deployment.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Web.WebPages.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Web.WebPages.Razor.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/WebGrease.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/Firebase.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/LiteDB.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Diagnostics.DiagnosticSource.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Net.Http.Extensions.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Net.Http.Primitives.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Reactive.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Web.Helpers.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Web.Mvc.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Web.Optimization.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Web.Razor.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Web.WebPages.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Web.WebPages.Deployment.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/System.Web.WebPages.Razor.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/Newtonsoft.Json.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/Antlr3.Runtime.pdb
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/obj/Debug/SEProject.csproj.App.config
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/obj/Debug/SEProject.csprojAssemblyReference.cache
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/obj/Debug/SEProject.csproj.CoreCompileInputs.cache
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/obj/Debug/SEProject.csproj.CopyComplete
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/obj/Debug/SEProject.dll
+D:/Facultate/An III/An 3_1/IS/Proiect/Pentru final/SEProjectFinal/SEProject/obj/Debug/SEProject.pdb
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/SEProject.dll.config
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/SEProject.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/SEProject.pdb
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/csc.exe
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/csc.exe.config
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/csc.rsp
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/csi.exe
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/csi.exe.config
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/csi.rsp
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/Microsoft.Win32.Primitives.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.AppContext.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Collections.Immutable.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Console.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Globalization.Calendars.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.IO.Compression.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.IO.Compression.ZipFile.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.IO.FileSystem.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Net.Http.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Net.Sockets.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Reflection.Metadata.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.ValueTuple.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Xml.XPath.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/vbc.exe
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/vbc.exe.config
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/vbc.rsp
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/VBCSCompiler.exe
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/roslyn/VBCSCompiler.exe.config
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Antlr3.Runtime.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Firebase.Auth.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Firebase.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/FireSharp.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/LiteDB.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Microsoft.Web.Infrastructure.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Microsoft.Win32.Primitives.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Newtonsoft.Json.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.AppContext.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Console.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Diagnostics.DiagnosticSource.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Diagnostics.Tracing.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Globalization.Calendars.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.IO.Compression.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.IO.Compression.ZipFile.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.IO.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.IO.FileSystem.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.IO.FileSystem.Primitives.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Linq.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Linq.Expressions.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Net.Http.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Net.Http.Extensions.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Net.Http.Primitives.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Net.Sockets.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Reactive.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Reflection.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Runtime.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Runtime.Extensions.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Runtime.InteropServices.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Security.Cryptography.Algorithms.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Security.Cryptography.Encoding.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Security.Cryptography.Primitives.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Security.Cryptography.X509Certificates.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Text.RegularExpressions.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Web.Helpers.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Web.Mvc.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Web.Optimization.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Web.Razor.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Web.WebPages.Deployment.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Web.WebPages.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Web.WebPages.Razor.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Xml.ReaderWriter.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/WebGrease.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Firebase.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/LiteDB.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Microsoft.Threading.Tasks.Extensions.Desktop.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Diagnostics.DiagnosticSource.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Net.Http.Extensions.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Net.Http.Primitives.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Reactive.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Web.Helpers.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Web.Mvc.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Web.Optimization.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Web.Razor.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Web.WebPages.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Web.WebPages.Deployment.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/System.Web.WebPages.Razor.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Newtonsoft.Json.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Antlr3.Runtime.pdb
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/obj/Debug/SEProject.csproj.App.config
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/obj/Debug/SEProject.csprojAssemblyReference.cache
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/obj/Debug/SEProject.csproj.CoreCompileInputs.cache
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/obj/Debug/SEProject.csproj.CopyComplete
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/obj/Debug/SEProject.dll
+/Users/gavrisvancea/An3/Semestrul1/IS/Final/SEProjectFinal/SEProject/obj/Debug/SEProject.pdb

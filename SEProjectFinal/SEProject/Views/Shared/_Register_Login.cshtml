@@ -1,0 +1,55 @@
+﻿
+@using SEProject.Models
+
+@if (CurrentUser.Instance.IsLogged == true)
+{
+
+
+
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+@Html.AntiForgeryToken()
+        if (CurrentUser.Instance.User.email.StartsWith("admin"))
+        {
+
+                        <ul class="nav navbar-nav navbar-right">
+
+                            <li>
+                                @Html.ActionLink("Hello " + CurrentUser.Instance.User.fullName + "!", "MyAccount", "Account", routeValues: null, htmlAttributes: new { title = "Manage" })
+                            </li>
+
+                            <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+                        </ul>
+        }
+        else
+        {
+
+<ul class="nav navbar-nav navbar-right">
+
+
+    <li>
+        @Html.ActionLink("Search service", "Search", "Account", routeValues: null, htmlAttributes: new { id = "searchLink" })
+    </li>
+
+    <li>
+        @Html.ActionLink("Add announcement", "AddAnnouncement", "Account", routeValues: null, htmlAttributes: new { id = "announcementLink" })
+    </li>
+    <li>
+        @Html.ActionLink("View requests", "ViewRequests", "Account", routeValues: null, htmlAttributes: new { id = "requestLink" })
+    </li>
+    <li>
+        @Html.ActionLink("Hello " + CurrentUser.Instance.User.fullName + "!", "MyAccount", "Account", routeValues: null, htmlAttributes: new { title = "Manage" })
+    </li>
+
+    <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+</ul> }
+    }
+}
+else
+
+{
+<ul class="nav navbar-nav navbar-right">
+    <li>@Html.ActionLink("Register", "Create", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+    <li>@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+
+</ul>}

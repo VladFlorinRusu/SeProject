@@ -1,0 +1,93 @@
+﻿@model Tuple<List<SEProject.Models.Announcement>, List<SEProject.Models.User>>
+
+<br />
+<br />
+<br />
+
+
+<table class="table">
+    <tr>
+        <th>
+            @*@Html.DisplayNameFor(model => model.category)*@
+            Category
+        </th>
+        <th>
+            @* @Html.DisplayNameFor(model => model.text)*@
+            Text
+        </th>
+        <th>
+            @* @Html.DisplayNameFor(model => model.price)*@
+            Price
+        </th>
+        <th>
+            @* @Html.DisplayNameFor(model => model.city)*@
+            City
+        </th>
+    </tr>
+
+    @foreach (SEProject.Models.Announcement item in Model.Item1)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.category)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.text)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.price)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.city)
+    </td>
+    <td>
+        @Html.ActionLink("Delete", "Delete2", new { annID = item.announcementID })
+    </td>
+</tr>}
+
+</table>
+
+<br />
+<br />
+<br />
+<br />
+
+<table class="table">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Email
+        </th>
+        <th>
+            City
+        </th>
+        <th>
+            Username
+        </th>
+    </tr>
+
+    @foreach (SEProject.Models.User item in Model.Item2)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.fullName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.email)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.city)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.username)
+    </td>
+    <td>
+        @Html.ActionLink("Delete", "Delete", new { userID = item.userID })
+    </td>
+</tr>}
+
+</table>
+
+

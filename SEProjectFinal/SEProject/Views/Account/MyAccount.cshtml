@@ -1,0 +1,121 @@
+﻿@model Tuple<SEProject.Models.User, List<SEProject.Models.Announcement>, List<SEProject.Models.Order>>
+
+
+<h3>
+    Personal information
+</h3>
+
+<br />
+
+<p>
+    Name: @Html.DisplayFor(modelItem => Model.Item1.fullName)
+</p>
+
+<p>
+   City: @Html.DisplayFor(modelItem => Model.Item1.city)
+</p>
+
+<p>
+    Username: @Html.DisplayFor(modelItem => Model.Item1.username)
+</p>
+
+<p>
+    Email: @Html.DisplayFor(modelItem => Model.Item1.email)
+</p>
+
+<br />
+
+<h3>
+    My announcements
+</h3>
+
+<br />
+
+<table class="table">
+    <tr>
+        <th>
+            Category
+        </th>
+        <th>
+            Text
+        </th>
+        <th>
+            Price
+        </th>
+        <th>
+            City
+        </th>
+    </tr>
+
+    @foreach (SEProject.Models.Announcement item in Model.Item2)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.category)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.text)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.price)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.city)
+    </td>
+    <td>
+        @Html.ActionLink("Delete", "Delete3", new { annID = item.announcementID })
+    </td>
+</tr>
+}
+
+</table>
+
+<br />
+
+<h3>Status of my requests</h3>
+
+<br />
+
+<table class="table">
+    <tr>
+        <th>
+            Seller
+        </th>
+        <th>
+            Announcement
+        </th>
+        <th>
+            Price
+        </th>
+        <th>
+            City
+        </th>
+        <th>
+            Status
+        </th>
+
+    </tr>
+
+    @foreach (SEProject.Models.Order item in Model.Item3)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.seller.fullName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.announcement.text)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.announcement.price)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.announcement.city)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.status)
+    </td>
+</tr>}
+
+</table>
+
+

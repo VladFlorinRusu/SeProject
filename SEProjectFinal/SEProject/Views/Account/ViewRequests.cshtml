@@ -1,0 +1,56 @@
+﻿@model IEnumerable<SEProject.Models.Order>
+
+<h2> My requests:</h2>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.buyer)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.announcement.category)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.announcement.text)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.announcement.price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.announcement.city)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.status)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.buyer.fullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.announcement.category)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.announcement.text)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.announcement.price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.announcement.city)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.status)
+            </td>
+            <td>
+                @Html.ActionLink("EditStatus", "EditStatus", new { id = item.orderID })
+            </td>
+           
+
+        </tr>
+    }
+
+</table>
+
