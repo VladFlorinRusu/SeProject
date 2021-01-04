@@ -242,7 +242,7 @@ namespace SEProject.Controllers
         {
             int points;
             points = CurrentUser.Instance.User.computePoints(a);
-            if (points >= 3)
+            if (points >= 4)
                 return true;
             return false;
         }
